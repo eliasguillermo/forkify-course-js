@@ -10,8 +10,6 @@ import { MODAL_CLOSE_SEC } from './config.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
-import { ReceiptOutlined } from '@material-ui/icons';
-
 if (module.hot) {
   module.hot.accept();
 }
